@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ape:home|Door43 (ape)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ape|d43-ape repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ape/archive/master.zip|d43-ape.zip]]
+
+**Recent Changes**
+{{changes>ns = ape}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ape|Ethnologue data]]
+
